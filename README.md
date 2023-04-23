@@ -17,7 +17,7 @@
 ### Testing Documentation
 
 - [Test Documentation] (https://github.com/Aleksey0405/Test_Documentation)
-- [Postman Collections](https://github.com/Aleksey0405/Postman)
+- [Postman Collections] (https://github.com/Aleksey0405/Postman)
 
 ### Follow Me
 [![Header](https://www.instagram.com/borsuk_aleksey/)
