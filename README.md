@@ -1,9 +1,6 @@
 ### Hi there 👋
-[![Header](https://github.com/Aleksey0405)
+(https://github.com/Aleksey0405)
 ## I'm a stsudying QA Engineer and IT-support. 
-
-## Latest Youtube Videos
-
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
