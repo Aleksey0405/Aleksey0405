@@ -16,7 +16,7 @@
 
 ### Testing Documentation
 
-- [Test Documentation] (https://github.com/Aleksey0405/Test_Documentation)
+- [Test Documentation] ([https://github.com/Aleksey0405/Test_Documentation](https://github.com/Aleksey0405/TestDocumentation))
 - [Postman Collections] (https://github.com/Aleksey0405/Postman)
 
 ### Follow Me
