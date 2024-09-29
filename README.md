@@ -1,6 +1,6 @@
 ### Hi there 👋
 (https://github.com/Aleksey0405)
-## I'm a stsudying QA Engineer and IT-support. 
+## I'm a studying QA Engineer and IT-support. 
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
